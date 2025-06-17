@@ -29,7 +29,7 @@ This real-life AZ Tank Game is a laser-tag-inspired robot battle system, where e
   A 0.96” OLED screen shows real-time status such as score updates and game-over messages like “You lose.”
 
 - 🧱 **Game Arena and Map**  
-  The game is played in a 70cm x 30cm maze with reflective mirrors, enabling players to bounce lasers off walls for tactical shots.
+  The game is played in a mirror maze, enabling players to bounce lasers off walls.
 
 ---
 
@@ -41,3 +41,8 @@ You're welcome to contribute — feel free to fork the repo and suggest improvem
 
 ## 🎥 Demo
 https://youtu.be/T_IwSI9VMSY
+
+---
+
+## References
+https://youtu.be/DRXjLnhupkE?si=68K4hHoaKSaP8wHA
